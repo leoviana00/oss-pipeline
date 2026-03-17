@@ -1,4 +1,4 @@
-## 🥋 OSS-Pipeline: BJJ Progression & DevOps MasteryO 
+## 🥋 OSS-Pipeline: BJJ Progression & DevOps 
 
 OSS-Pipeline é uma aplicação Full Stack desenvolvida com Java Spring Boot projetada para gerenciar a jornada de atletas de Jiu-Jitsu (frequência, graduação de graus e faixas). O diferencial deste projeto não é apenas o CRUD, mas sua infraestrutura de "Faixa Preta", utilizando práticas avançadas de DevOps para garantir entrega contínua, segurança e observabilidade.
 
@@ -30,9 +30,9 @@ A solução segue os princípios de Clean Architecture e Twelve-Factor App:
 
 🗺️ Roadmap de Implementação
 
-- [ ] Fase 1: O Tatame (Setup)
-    - [ ] Configuração do projeto Spring Initializr.
-    - [ ] Dockerização da aplicação e banco de dados.
+- [x] Fase 1: O Tatame (Setup)
+    - [x] Configuração do projeto Spring Initializr.
+    - [x] Dockerização da aplicação e banco de dados.
     
 - [ ] Fase 2: A Técnica (Desenvolvimento)
     - [ ] Implementação do domínio de Atletas e Graduações.
