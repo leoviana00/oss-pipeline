@@ -2,10 +2,13 @@
 
 ## Current - Work in progress
 ### Merges
+*  Merge pull request #4 from leoviana00/feature-phase1-setup [View](https://github.com/leoviana00/oss-pipeline/commits/e14649f9d7a2528f3a20dd35786578be00f1df45)
 *  Merge pull request #3 from leoviana00/feature-phase1-setup [View](https://github.com/leoviana00/oss-pipeline/commits/d343089ce9df185ee9f1c7f0c4cb0c9971cd9322)
 ### Commits
 *  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/oss-pipeline/commits/419fdedff8e3ec634a82fcaceb25f2d9b63f427f)
 *  feat(project): base project [View](https://github.com/leoviana00/oss-pipeline/commits/902f26a9d3ea43ce8967c3e852873abaf5376512)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/oss-pipeline/commits/44c736fedf08d85b22c006272979b98a8360949f)
+*  docs(roadmap): update roadmap [View](https://github.com/leoviana00/oss-pipeline/commits/37edcacf6a5f7c5baf2d3c032124fee670c71ec1)
 
 
 
